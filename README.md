@@ -2,7 +2,7 @@
 
 Jukebox
 
-![Image of Jukebox](https://npu85.npu.edu/~henry/npu/classes/oo/uml_tutorial/slide/juke_box.jpg)
+![GitHub Logo](/image/juke_box.jpg)
 
 Description
 
