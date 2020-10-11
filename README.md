@@ -1,7 +1,9 @@
-# OOP Jukebox
-OOA / OOD / OO Programming / OO QA
+# OOA / OOD / OO Programming / OO QA
 
+Jukebox
 
+![GitHub Logo](/images/juke_box.jpg)
+Format: ![Alt Text](url)
 
 Description
 
