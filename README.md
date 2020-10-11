@@ -10,13 +10,14 @@ Design a Juke Box that allows customers to select songs they want played or to s
 
 ## Juke Box spec
 
-  Allow customers to
-    select songs they want to play.
-    submit a play list that they have already created previously.
-    
-  The Juke Box can search other Juke Boxes from Internet for songs that are not contained by a local Juke Box.
-  To provide a mechanism for owners, record companies and artists to earn a profit. The Juke Box contains
-     A coin drop
-     Cash feed mechanism
-     A card swipe mechanism
-     A cell dial payment capability.
+Allow customers to
+
+- select songs they want to play.
+- submit a play list that they have already created previously.
+
+The Juke Box can search other Juke Boxes from Internet for songs that are not contained by a local Juke Box. To provide a mechanism for owners, record companies and artists to earn a profit. The Juke Box contains
+
+- A coin drop
+- Cash feed mechanism
+- A card swipe mechanism
+- A cell dial payment capability.
