@@ -32,6 +32,6 @@ The Juke Box can search other Juke Boxes from Internet for songs that are not co
 
 Junit test suite structure diagram
 
-![JUnit_Pic](/image/junit_test.jpg)
+![JUnit_Pic](/image/junit_test.JPG)
 
 - Test files are under Tests folder
