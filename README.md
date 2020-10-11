@@ -35,3 +35,14 @@ Junit test suite structure diagram
 ![JUnit_Pic](/image/junit_test.JPG)
 
 - Test files are under Tests folder
+
+## Testing Instruction
+
+### Complie Program
+1. Run javac *.java on the folder
+2. Run java Jukebox for the output
+
+### Junit Test
+1. cd to the Tests folder.
+2. Run javac *.java 
+3. Run java JBTestSuiteRunner for the output
