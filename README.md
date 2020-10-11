@@ -1,4 +1,4 @@
-# Jukebox-project
+# OOP Jukebox
 OOA / OOD / OO Programming / OO QA
 
 
