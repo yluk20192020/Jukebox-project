@@ -21,3 +21,9 @@ The Juke Box can search other Juke Boxes from Internet for songs that are not co
 - Cash feed mechanism
 - A card swipe mechanism
 - A cell dial payment capability.
+
+## Diagrams
+
+> Use Case Diagram
+> Class Diagram
+> Sequence Diagram
