@@ -27,3 +27,11 @@ The Juke Box can search other Juke Boxes from Internet for songs that are not co
 - Use Case Diagram
 - Class Diagram
 - Sequence Diagram
+
+## Junit Test Suite
+
+Junit test suite structure diagram
+
+![JUnit_Pic](/image/junit_test.jpg)
+
+- Test files are under Tests folder
