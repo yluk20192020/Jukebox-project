@@ -36,7 +36,7 @@ Junit test suite structure diagram
 
 - Test files are under Tests folder
 
-## Testing Instruction
+## Test Instruction
 
 ### Complie Program
 1. Run javac *.java on the folder
